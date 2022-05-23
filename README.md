@@ -1,6 +1,5 @@
 ### Avee Development 🎲
-Hey I'm Avee,
-I have so much of projects that i currently work.
+Hey I'm Avee, <nl>I have so much of projects that i currently work.
 ##
 - 🧶 Currently working on my portfolio website
 》**Source:** [Click me for Rickroll](https://github.com/aveeitstrue)
